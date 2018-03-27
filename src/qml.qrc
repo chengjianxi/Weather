@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Splash.qml</file>
+        <file>MainWindow.qml</file>
+        <file>WeatherUnit.qml</file>
+        <file>ListHeader.qml</file>
+        <file>ListViewEx.qml</file>
+        <file>WeatherBackground.qml</file>
+        <file>SlidingMenu.qml</file>
+        <file>AboutPage.qml</file>
+        <file>CitysManagePage.qml</file>
+        <file>NavigationBar.qml</file>
+        <file>SearchCityPage.qml</file>
+        <file>Units.qml</file>
+        <file>qmldir</file>
+        <file>Toast.qml</file>
+        <file>Database.js</file>
+        <file>Global.qml</file>
+        <file>ThemeWindow.qml</file>
+        <file>ThemeColorCell.qml</file>
+    </qresource>
+</RCC>
